@@ -25,3 +25,9 @@
             ┌────────────────▼───────────────────┐
             │ Azure Communitation Service Email  │
             └────────────────────────────────────┘
+
+## Usage
+If you wanted to run it locally, need to run Azurite Blob Service.
+```
+npm start
+```
